@@ -1,0 +1,14 @@
+# LangChain
+langchain==1.3.0
+
+
+
+# Environment Variables
+python-dotenv==1.1.1
+
+
+
+streamlit
+
+#open Source
+langchain-groq==1.1.3
